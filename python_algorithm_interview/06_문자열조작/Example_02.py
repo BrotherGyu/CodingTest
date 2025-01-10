@@ -14,7 +14,8 @@ from time_measure import measure_execution_time
 
 def solution(input_data) -> list:
     # return input_data[::-1]
-    return input_data.reverse()
+    input_data.reverse()
+    return input_data
 
 if __name__ == "__main__":
     # 첫 번째 테스트 케이스
