@@ -4,6 +4,11 @@
     - Input / Output-
     "A man, a plan, a canal: Panama" / true
     "race a car" / false
+
+    - 실행시간
+    풀이 1 - 304 ms
+    풀이 2 - 64 ms
+    풀이 3 - 36 ms
 """
 
 import collections
