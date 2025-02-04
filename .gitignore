@@ -1,0 +1,31 @@
+# Python 관련 무시할 파일들
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+*.dll
+*.egg-info/
+*.egg
+*.whl
+
+# Jupyter Notebook 체크포인트 무시
+.ipynb_checkpoints/
+
+# 가상 환경 (venv, virtualenv, conda 등)
+venv/
+.env/
+.venv/
+env/
+*.env
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# IDE 및 시스템 파일 무시
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
